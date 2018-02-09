@@ -40,7 +40,7 @@ class Type extends AbstractHelper
             'default'                      => 'text',
             'pim_catalog_identifier'       => 'text',
             'pim_catalog_text'             => 'text',
-            'pim_catalog_metric'           => 'text',
+            'pim_catalog_metric'           => 'price',
             'pim_catalog_number'           => 'text',
             'pim_catalog_textarea'         => 'textarea',
             'pim_catalog_date'             => 'date',
